@@ -1,0 +1,15 @@
+@-moz-document domain("theverge.com") {
+
+/* De-Emphasize Quotes within Posts */
+* q,
+.product-review-entry q,
+.feature-entry q,
+.article-body q {
+	font-size: 14px !important;
+	line-height: 14px !important;
+	letter-spacing: 2px !important;
+	padding: 5px !important;
+	margin: 10px auto !important;
+}
+
+}

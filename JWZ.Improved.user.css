@@ -1,0 +1,13 @@
+@-moz-document domain("jwz.org"), domain("jwz.livejournal.com") {
+
+/* Dial it back from the eye-bleeding black & green terminal-style. */
+* {
+	background-color: rgb(232,232,232) !important;
+	color: black !important;
+}
+
+a {
+	color: rgb(0,96,0) !important;
+}
+
+}

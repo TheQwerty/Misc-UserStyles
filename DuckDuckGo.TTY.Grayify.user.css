@@ -1,0 +1,12 @@
+@-moz-document regexp("^https?://(?:www\\.)?duckduckgo.com/tty/?") {
+
+/* Dial it back from the eye-bleeding black & green terminal-style. */
+* {
+	color: #999 !important;
+}
+
+.terminal .cmd span.inverted {
+	background-color: #999 !important;
+}
+
+}

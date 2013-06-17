@@ -1,0 +1,32 @@
+@-moz-document regexp("^https?://(www\\.)?google\\.com/reader.*") {
+
+/* Removes the folder/feed title and cleans up the no new items message. */
+
+#no-entries-msg {
+	padding-top: 0 !important;
+	padding-bottom: 0.25em !important;
+	border: 0 !important;
+}
+
+#no-entries-msg * {
+	font-size-adjust: 0.4 !important;
+	opacity: 0.6 !important;
+}
+
+#no-entries-msg h2 {
+	font-size-adjust: 0.4 !important;
+	margin-bottom: 0.25em !important;
+	margin-top: 0.25em !important;
+}
+
+#title-and-status-holder {
+	display: none !important;
+}
+
+#chrome-title {
+	font-size-adjust: 0.5 !important;
+	opacity: 0.6 !important;
+	line-height: 10px !important;
+}
+
+}

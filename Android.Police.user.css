@@ -1,0 +1,13 @@
+@-moz-document domain("androidpolice.com") {
+
+/* Makes links stand out more. */
+.post_main a {
+	color:red !important;
+}
+
+/* Makes the selection visible again. */
+::selection {
+	background-color:#AAA !important;
+}
+
+}

@@ -1,0 +1,24 @@
+@-moz-document domain("twitter.com") {
+
+/* Darkens the focused item when using keyboard shortcuts. */
+.hovered-stream-item {
+	background-color:#DDD !important;
+}
+
+/*
+Makes the last read tweet stand out a little more.
+This may be obsolete.
+*/
+.last-new-tweet {
+	border-bottom: thick solid #B03030 !important;
+}
+
+/*
+Makes App.net posts stand out more.
+This required some extension/userscript that I don't appear to use anymore.
+*/
+.appnet .tweet {
+	background: -webkit-linear-gradient(top, #ECD, #BBC) #ECD; !important;
+}
+
+}

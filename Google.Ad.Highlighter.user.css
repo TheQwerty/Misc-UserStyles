@@ -1,0 +1,8 @@
+@-moz-document domain("google.com") {
+
+/* Highlights ads on Google Search Results better. */
+#tads, .c {
+	background-color:#BBC !important;
+}
+
+}

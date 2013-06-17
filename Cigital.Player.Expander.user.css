@@ -1,0 +1,8 @@
+@-moz-document url-prefix("https://elearning.cigital.com/mod/scorm/player.php") {
+
+/* Make the player a bit taller. */
+#mod-scorm-player #scormobject {
+	height: 800px !important;
+}
+
+}
