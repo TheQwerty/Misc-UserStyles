@@ -1,8 +1,8 @@
-@-moz-document domain("google.com") {
-
 /* Highlights ads on Google Search Results better. */
-#tads, .c {
-	background-color:#BBC !important;
+#rhs ._Ak {
+  margin: 0 !important;
 }
 
+#tads ol *, #rhscol .c, #rhscol .c *, #rhs ._Ak, #rhs ._Ak * {
+	background-color:#BBC !important;
 }
