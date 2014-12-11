@@ -1,13 +1,20 @@
+/* Settings:
+Make sure you replace these if not installing from https://userstyles.org.
+[[bgColor]] - Background Color (#E8E8E8)
+[[fColor]] - Font Color (#000000)
+[[aColor]] - Link Color (#009600)
+*/
+
 @-moz-document domain("jwz.org"), domain("jwz.livejournal.com") {
 
 /* Dial it back from the eye-bleeding black & green terminal-style. */
 * {
-	background-color: rgb(232,232,232) !important;
-	color: black !important;
+	background-color: /*[[bgColor]]*/ !important;
+	color: /*[[fColor]]*/ !important;
 }
 
 a {
-	color: rgb(0,96,0) !important;
+	color: /*[[aColor]]*/ !important;
 }
 
 }
