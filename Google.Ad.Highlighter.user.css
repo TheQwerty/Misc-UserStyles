@@ -1,3 +1,8 @@
+/* Settings:
+Make sure you replace these if not installing from https://userstyles.org.
+[[adbgcolor]] - Background color for ads.
+*/
+
 @-moz-document domain("google.com") {
 /* Highlights ads on Google Search Results better. */
 #rhs ._Ak {
@@ -5,6 +10,6 @@
 }
 
 #tvcap, #tvcap *, #tads ol *, #rhscol .c, #rhscol .c *, #rhs ._Ak, #rhs ._Ak * {
-	background-color:#BBC !important;
+	background-color:/*[[adbgcolor]]*/ !important;
 }
 }
