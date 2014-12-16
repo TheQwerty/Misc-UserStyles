@@ -1,0 +1,10 @@
+@-moz-document domain("mail.google.com") {
+/* Condense labels in conversation list */
+.ar { width:8px; }
+.ar .av { opacity:0; }
+
+/* Show full size labels on hover */
+.ar:hover { width:auto; }
+.ar:hover .av { opacity:1; }
+
+}
