@@ -1,13 +1,19 @@
+/* Settings:
+Make sure you replace these if not installing from https://userstyles.org.
+[[aColor]] - Link Color (#F00)
+[[selBGColor]] - Selection Background Color (#AAA)
+*/
+
 @-moz-document domain("androidpolice.com") {
 
 /* Makes links stand out more. */
 .post_main a {
-	color:red !important;
+	color:/*[[aColor]]*/ !important;
 }
 
 /* Makes the selection visible again. */
 ::selection {
-	background-color:#AAA !important;
+	background-color:/*[[selBGColor]]*/ !important;
 }
 
 }
