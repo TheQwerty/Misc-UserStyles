@@ -1,15 +1,23 @@
-/* Settings:
-Make sure you replace these if not installing from https://userstyles.org.
-[[adbgcolor]] - Background color for ads. (#BBC)
-*/
-
 @-moz-document domain("google.com") {
+/*******************************************************************************
+Google - Ad Highlighter
+
+Makes ads on Google standout more.
+
+https://userstyles.org/styles/108205/google-ad-highlighter
+
+History:
+	2015-09-02 - Improve selector
+	2014-12-11 - Creation
+*******************************************************************************/
+
 /* Highlights ads on Google Search Results better. */
 #rhs ._Ak {
-  margin: 0 !important;
+	margin: 0 !important;
 }
 
 #tvcap, #tvcap *, #tads ol *, #rhscol .c, #rhscol .c *, #rhs ._Ak, #rhs ._Ak * {
-	background-color:/*[[adbgcolor]]*/ !important;
+	background-color:#BBBBCC !important;
 }
+
 }

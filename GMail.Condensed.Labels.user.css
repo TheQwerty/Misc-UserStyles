@@ -1,23 +1,35 @@
 @-moz-document domain("mail.google.com") {
+/*******************************************************************************
+GMail - Condensed Labels
 
-	/* Condense labels in conversation list */
-	.ar {
-		max-width:8px;
-		transition: all 0.2s ease 0.3s !important;
-	}
-	.ar .av {
-		opacity:0;
-		transition: all 0.2s ease 0.1s !important;
-	}
+Condense the labels in the conversation list to a small colored box until
+hovered.
 
-	/* Show full size labels on hover */
-	.ar:hover {
-		max-width:250px;
-		transition: all 0.2s ease 0.3s !important;
-	}
-	.ar:hover .av {
-		opacity:1;
-		transition: all 0.2s ease 0.3s !important;
-	}
+https://userstyles.org/styles/108412/gmail-condensed-labels
+
+History:
+	2015-10-27 - Add animated transitions
+	2014-12-16 - Creation
+*******************************************************************************/
+
+/* Condense labels in conversation list */
+.ar {
+	max-width:8px !important;
+	transition: all 0.2s ease 0.3s !important;
+}
+.ar .av {
+	opacity:0 !important;
+	transition: all 0.2s ease 0.1s !important;
+}
+
+/* Show full size labels on hover */
+.ar:hover {
+	max-width:250px !important;
+	transition: all 0.2s ease 0.3s !important;
+}
+.ar:hover .av {
+	opacity:1 !important;
+	transition: all 0.2s ease 0.3s !important;
+}
 
 }

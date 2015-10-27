@@ -1,4 +1,9 @@
 @-moz-document domain("twitter.com") {
+/*******************************************************************************
+Twitter - Highlight Focus/Last Read
+
+OBSOLETE: Twitter has updated since this was written.
+*******************************************************************************/
 
 /* Darkens the focused item when using keyboard shortcuts. */
 .hovered-stream-item {

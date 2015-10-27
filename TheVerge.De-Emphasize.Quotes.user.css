@@ -1,4 +1,9 @@
 @-moz-document domain("theverge.com") {
+/*******************************************************************************
+The Verge - De-emphasize quotes
+
+OBSOLETE: The Verge has updated since this was written.
+*******************************************************************************/
 
 /* De-Emphasize Quotes within Posts */
 q {

@@ -1,4 +1,9 @@
 @-moz-document regexp("^https?://(www\\.)?google\\.com/reader.*") {
+/*******************************************************************************
+Google Reader - Cleaner Looks
+
+OBSOLETE: RIP Google Reader
+*******************************************************************************/
 
 /* Removes the folder/feed title and cleans up the no new items message. */
 

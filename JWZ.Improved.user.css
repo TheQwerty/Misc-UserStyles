@@ -1,20 +1,23 @@
-/* Settings:
-Make sure you replace these if not installing from https://userstyles.org.
-[[bgColor]] - Background Color (#E8E8E8)
-[[fColor]] - Font Color (#000000)
-[[aColor]] - Link Color (#009600)
-*/
-
 @-moz-document domain("jwz.org"), domain("jwz.livejournal.com") {
+/*******************************************************************************
+JWZ Eye Saver
+
+Dials JWZ site back from the eye-bleeding black & green terminal-style.
+
+https://userstyles.org/styles/108208/jwz-eye-saver
+
+History:
+	2014-12-11 - Creation
+*******************************************************************************/
 
 /* Dial it back from the eye-bleeding black & green terminal-style. */
 * {
-	background-color: /*[[bgColor]]*/ !important;
-	color: /*[[fColor]]*/ !important;
+	background-color: #E8E8E8 !important;
+	color: #000000 !important;
 }
 
 a {
-	color: /*[[aColor]]*/ !important;
+	color: #009600 !important;
 }
 
 }
