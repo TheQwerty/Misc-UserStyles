@@ -1,4 +1,9 @@
 @-moz-document url-prefix("https://elearning.cigital.com/mod/scorm/player.php") {
+/*******************************************************************************
+Cigital Player Expander
+
+The player years to be a baller so we make it a little bit taller.
+*******************************************************************************/
 
 /* Make the player a bit taller. */
 #mod-scorm-player #scormobject {

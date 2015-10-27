@@ -1,0 +1,31 @@
+@-moz-document domain("last.fm") {
+/*******************************************************************************
+Last.fm - Show Scrobble Counts in Library
+
+Makes the table containing the number of scrobbles visible when viewing
+a user's library.
+
+Works with the new layout Last.fm introduced in August 2015.
+
+https://userstyles.org/styles/118344/last-fm-show-scrobble-counts-in-library
+
+History:
+	2015-09-02 - Creation
+*******************************************************************************/
+
+/* Makes the scrobble count table visible. */
+.scrobble-table {
+	position: inherit !important;
+	width: auto !important;
+	height: auto !important;
+	overflow: visible !important;
+	display: block !important;
+	margin: 10px !important;
+}
+
+/* Makes the row headers bold. */
+.scrobble-table table th {
+	font-weight: bold !important;
+}
+
+}

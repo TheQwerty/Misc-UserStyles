@@ -1,0 +1,18 @@
+@-moz-document url-prefix("https://play.google.com/music/listen") {
+/*******************************************************************************
+Google Play Music - Menu Expander
+
+Makes the genre drop down menu on wide enough to not clip its contents.
+
+https://userstyles.org/styles/118349/google-play-music-menu-expander
+
+History:
+	2015-09-02 - Creation
+*******************************************************************************/
+
+/* Change the menu width. */
+.material .goog-menu {
+	width: 250px !important;
+}
+
+}

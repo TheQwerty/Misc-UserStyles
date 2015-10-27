@@ -1,19 +1,26 @@
-/* Settings:
-Make sure you replace these if not installing from https://userstyles.org.
-[[aColor]] - Link Color (#F00)
-[[selBGColor]] - Selection Background Color (#AAA)
-*/
-
 @-moz-document domain("androidpolice.com") {
+/*******************************************************************************
+AndroidPolice Modes
+
+OBSOLETE: This style is no longer needed, nor does it work, with the redesigned
+Android Police.
+
+Makes links within posts red and improves the selection color.
+
+https://userstyles.org/styles/108204/androidpolice-mods
+
+History:
+	2014-12-11 - Creation
+*******************************************************************************/
 
 /* Makes links stand out more. */
 .post_main a {
-	color:/*[[aColor]]*/ !important;
+	color:#F00 !important;
 }
 
 /* Makes the selection visible again. */
 ::selection {
-	background-color:/*[[selBGColor]]*/ !important;
+	background-color:#AAA !important;
 }
 
 }
