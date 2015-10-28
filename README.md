@@ -16,7 +16,7 @@ Hides ads from the Promotions tab until the top border is hovered.
 
 #### [Google - Ad Highlighter](Google.Ad.Highlighter.user.css) [![UserStyles](res/stylish_icon.png)](https://userstyles.org/styles/108205/google-ad-highlighter)
 
-Attempts to made ads on Google standout a little more.
+Attempts to make ads on Google standout a little more.
 
 #### [Google Play Music - Menu Expander](Google.Play.Music.Menu.Expander.user.css) [![UserStyles](res/stylish_icon.png)](https://userstyles.org/styles/118349/google-play-music-menu-expander)
 
