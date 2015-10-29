@@ -19,8 +19,7 @@ to the *Raw* view of the file.
 --------------------------------------------------------------------------------
 
 <a name="GMail_Condensed_Labels" />
-#### [![UserStyles](res/stylish_icon.png)][GMail_Condensed_Labels]  
-[GMail - Condensed Labels][GMail_Condensed_Labels_File]
+#### [![UserStyles](res/stylish_icon.png)][GMail_Condensed_Labels] [GMail - Condensed Labels][GMail_Condensed_Labels_File]
 
 Shrinks message labels to a small text-less box until hovered.
 This works best when using colored labels.
