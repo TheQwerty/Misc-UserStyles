@@ -24,6 +24,9 @@ to the *Raw* view of the file.
 Shrinks message labels to a small text-less box until hovered.
 This works best when using colored labels.
 
+![Screenshot with style active.](res/GMail.Condensed.Labels.png)
+![Screenshot with style active and colored labels.](res/GMail.Condensed.Labels.2.png)
+
 --------------------------------------------------------------------------------
 
 <a name="GMail_Hide_Promotion_Ads" />
@@ -38,12 +41,17 @@ Hides ads from the Promotions tab until the top border is hovered.
 
 Attempts to make ads on Google standout a little more.
 
+![Screenshot with style active.](res/Google.Ad.Highlighter.png)
+
 --------------------------------------------------------------------------------
 
 <a name="Google_Play_Music_Menu_Expander" />
 #### [![UserStyles](res/stylish_icon.png)](Google_Play_Music_Menu_Expander) [Google Play Music - Menu Expander](Google_Play_Music_Menu_Expander_File)
 
 Makes the genre drop down menu wide enough to not clip its contents.
+
+![Screenshot without style.](res/Google.Play.Music.Menu.Expander.Before.png)
+![Screenshot with style active.](res/Google.Play.Music.Menu.Expander.After.png)
 
 --------------------------------------------------------------------------------
 
@@ -52,6 +60,8 @@ Makes the genre drop down menu wide enough to not clip its contents.
 
 Puts to rest the old green on black terminal-style.
 
+![Screenshot with style active.](res/JWZ.Improved.png)
+
 --------------------------------------------------------------------------------
 
 <a name="Lastfm_Show_Scrobble_Counts" />
@@ -59,6 +69,8 @@ Puts to rest the old green on black terminal-style.
 
 Makes the table containing the number of scrobbles visible when viewing a
 user's library.
+
+![Screenshot with style active.](res/Last.fm.Show.Scrobble.Counts.png)
 
 --------------------------------------------------------------------------------
 
