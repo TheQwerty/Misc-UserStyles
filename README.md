@@ -23,7 +23,7 @@ they can be configured and installed.
 Shrinks message labels to a small text-less box until hovered.
 This works best when using colored labels.
 
-![Screenshot with style active.](res/GMail.Condensed.Labels.png)
+![Screenshot showing changes made by style.](res/GMail.Condensed.Labels.png)
 ![Screenshot with style active and colored labels.](res/GMail.Condensed.Labels.2.png)
 
 --------------------------------------------------------------------------------
@@ -32,6 +32,8 @@ This works best when using colored labels.
 #### [![UserStyles](res/stylish_icon.png)][GMail_Hide_Promotion_Ads] [GMail - Hide Promotion Ads][GMail_Hide_Promotion_Ads_File]
 
 Hides ads from the Promotions tab until the top border is hovered.
+
+![Screenshot showing changes made by style.](res/GMail.Hide.Promotion.Ads.png)
 
 --------------------------------------------------------------------------------
 
