@@ -50,8 +50,9 @@ Attempts to make ads on Google standout a little more.
 
 Makes the genre drop down menu wide enough to not clip its contents.
 
-![Screenshot without style.](res/Google.Play.Music.Menu.Expander.Before.png)
-![Screenshot with style active.](res/Google.Play.Music.Menu.Expander.After.png)
+| Before                                                                       | After                                                                           |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![Screenshot without style.](res/Google.Play.Music.Menu.Expander.Before.png) | ![Screenshot with style active.](res/Google.Play.Music.Menu.Expander.After.png) |
 
 --------------------------------------------------------------------------------
 
