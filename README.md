@@ -14,6 +14,7 @@ they can be configured and installed.
 * [Google Play Music - Menu Expander](#Google_Play_Music_Menu_Expander)
 * [JWZ - Eye Saver](#JWZ_Eye_Saver)
 * [Last.fm - Show Scrobble Counts](#Lastfm_Show_Scrobble_Counts)
+* [YouTube - Colored Subscribe Buttons](#YouTube_Colored_Subscribe_Buttons)
 
 --------------------------------------------------------------------------------
 
@@ -76,6 +77,15 @@ user's library.
 
 --------------------------------------------------------------------------------
 
+<a name="YouTube_Colored_Subscribe_Buttons" />
+#### [![UserStyles](res/stylish_icon.png)][YouTube_Colored_Subscribe_Buttons] [YouTube - Colored Subscribe Buttons][YouTube_Colored_Subscribe_Buttons_File]
+
+Color YouTube's subscribe buttons based on whether you already subscribe or not.
+
+![Screenshot with style active.](res/YouTube.Colored.Subscribe.Buttons.png)
+
+--------------------------------------------------------------------------------
+
 [UserStylesProfile]: https://userstyles.org/users/115392
 [GMail_Condensed_Labels]: https://userstyles.org/styles/108412/gmail-condensed-labels
 [GMail_Condensed_Labels_File]: GMail.Condensed.Labels.user.css
@@ -89,3 +99,5 @@ user's library.
 [JWZ_Eye_Saver_File]: JWZ.Improved.user.css
 [Lastfm_Show_Scrobble_Counts]: https://userstyles.org/styles/118344/last-fm-show-scrobble-counts-in-library
 [Lastfm_Show_Scrobble_Counts_File]: Last.fm.Show.Scrobble.Counts.user.css
+[YouTube_Colored_Subscribe_Buttons]: https://userstyles.org/styles/120205/youtube-colored-subscribe-buttons
+[YouTube_Colored_Subscribe_Buttons_File]: YouTube.Colored.Subscribe.Buttons.user.css

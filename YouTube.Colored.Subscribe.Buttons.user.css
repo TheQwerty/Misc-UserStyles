@@ -1,0 +1,23 @@
+@-moz-document domain("youtube.com") {
+/*******************************************************************************
+YouTube - Colored Subscribe Buttons
+
+Color YouTube's Subscribe buttons based on whether you already subscribe or not.
+
+https://userstyles.org/styles/120205/youtube-colorized-subscribe-buttons
+
+History:
+	2015-10-29 - Creation
+*******************************************************************************/
+
+/* Subscribed */
+.yt-uix-subscription-button .subscribed-label {
+	color: #6A6 !important;
+}
+
+/* Unsubscribe */
+.yt-uix-subscription-button .unsubscribe-label {
+	color: #A66 !important;
+}
+
+}
