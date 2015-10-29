@@ -29,14 +29,14 @@ This works best when using colored labels.
 --------------------------------------------------------------------------------
 
 <a name="GMail_Hide_Promotion_Ads" />
-#### [![UserStyles](res/stylish_icon.png)](GMail_Hide_Promotion_Ads) [GMail - Hide Promotion Ads][GMail_Hide_Promotion_Ads_File]
+#### [![UserStyles](res/stylish_icon.png)][GMail_Hide_Promotion_Ads] [GMail - Hide Promotion Ads][GMail_Hide_Promotion_Ads_File]
 
 Hides ads from the Promotions tab until the top border is hovered.
 
 --------------------------------------------------------------------------------
 
 <a name="Google_Ad_Highlighter" />
-#### [![UserStyles](res/stylish_icon.png)](Google_Ad_Highlighter) [Google - Ad Highlighter][Google_Ad_Highlighter_File]
+#### [![UserStyles](res/stylish_icon.png)][Google_Ad_Highlighter] [Google - Ad Highlighter][Google_Ad_Highlighter_File]
 
 Attempts to make ads on Google standout a little more.
 
@@ -45,7 +45,7 @@ Attempts to make ads on Google standout a little more.
 --------------------------------------------------------------------------------
 
 <a name="Google_Play_Music_Menu_Expander" />
-#### [![UserStyles](res/stylish_icon.png)](Google_Play_Music_Menu_Expander) [Google Play Music - Menu Expander][Google_Play_Music_Menu_Expander_File]
+#### [![UserStyles](res/stylish_icon.png)][Google_Play_Music_Menu_Expander] [Google Play Music - Menu Expander][Google_Play_Music_Menu_Expander_File]
 
 Makes the genre drop down menu wide enough to not clip its contents.
 
@@ -56,7 +56,7 @@ Makes the genre drop down menu wide enough to not clip its contents.
 --------------------------------------------------------------------------------
 
 <a name="JWZ_Eye_Saver" />
-#### [![UserStyles](res/stylish_icon.png)](JWZ_Eye_Saver) [JWZ - Eye Saver][JWZ_Eye_Saver_File]
+#### [![UserStyles](res/stylish_icon.png)][JWZ_Eye_Saver] [JWZ - Eye Saver][JWZ_Eye_Saver_File]
 
 Puts to rest the old green on black terminal-style.
 
@@ -65,7 +65,7 @@ Puts to rest the old green on black terminal-style.
 --------------------------------------------------------------------------------
 
 <a name="Lastfm_Show_Scrobble_Counts" />
-#### [![UserStyles](res/stylish_icon.png)](Lastfm_Show_Scrobble_Counts) [Last.fm - Show Scrobble Counts][Lastfm_Show_Scrobble_Counts_File]
+#### [![UserStyles](res/stylish_icon.png)][Lastfm_Show_Scrobble_Counts] [Last.fm - Show Scrobble Counts][Lastfm_Show_Scrobble_Counts_File]
 
 Makes the table containing the number of scrobbles visible when viewing a
 user's library.
