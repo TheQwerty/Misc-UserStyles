@@ -1,0 +1,7 @@
+@-moz-document domain("dropbox.com") {
+.browse-file-row--is-selected, .browse-file-row--is-selected:hover {
+    background-color: rgba(160,200,250,0.75);
+    border-top-color: #cce6fa;
+    border-bottom-color: #cce6fa;
+}
+}
