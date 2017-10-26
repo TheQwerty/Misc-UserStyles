@@ -1,0 +1,18 @@
+@-moz-document domain("www.fitbit.com") {
+/*******************************************************************************
+Fitbit - Long Food Names
+
+Show full food names instead of using ellipsis.
+
+https://userstyles.org/styles/150196/fitbit-long-food-names
+
+History:
+	2017-10-26 - Creation
+*******************************************************************************/
+
+.foodLink {
+    white-space: normal;
+    font-stretch: semi-condensed;
+}
+
+}
