@@ -11,7 +11,6 @@ they can be configured and installed.
 * [GMail - Condensed Labels](#GMail_Condensed_Labels)
 * [GMail - Hide Promotion Ads](#GMail_Hide_Promotion_Ads)
 * [Google - Ad Highlighter](#Google_Ad_Highlighter)
-* [Google Play Music - Menu Expander](#Google_Play_Music_Menu_Expander)
 * [JWZ - Eye Saver](#JWZ_Eye_Saver)
 * [Last.fm - Show Scrobble Counts](#Lastfm_Show_Scrobble_Counts)
 * [YouTube - Colored Subscribe Buttons](#YouTube_Colored_Subscribe_Buttons)
@@ -47,18 +46,6 @@ Hides ads from the Promotions tab until the top border is hovered.
 Attempts to make ads on Google standout a little more.
 
 ![Screenshot with style active.](res/Google.Ad.Highlighter.png)
-
---------------------------------------------------------------------------------
-
-<a name="Google_Play_Music_Menu_Expander" />
-
-#### [![UserStyles](res/stylish_icon.png)][Google_Play_Music_Menu_Expander] [Google Play Music - Menu Expander][Google_Play_Music_Menu_Expander_File]
-
-Makes the genre drop down menu wide enough to not clip its contents.
-
-| Before                                                                       | After                                                                           |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![Screenshot without style.](res/Google.Play.Music.Menu.Expander.Before.png) | ![Screenshot with style active.](res/Google.Play.Music.Menu.Expander.After.png) |
 
 --------------------------------------------------------------------------------
 
@@ -100,8 +87,6 @@ Color YouTube's subscribe buttons based on whether you already subscribe or not.
 [GMail_Hide_Promotion_Ads_File]: GMail.Hide.Promotion.Ads.user.css
 [Google_Ad_Highlighter]: https://userstyles.org/styles/108205/google-ad-highlighter
 [Google_Ad_Highlighter_File]: Google.Ad.Highlighter.user.css
-[Google_Play_Music_Menu_Expander]: https://userstyles.org/styles/118349/google-play-music-menu-expander
-[Google_Play_Music_Menu_Expander_File]: Google.Play.Music.Menu.Expander.user.css
 [JWZ_Eye_Saver]: https://userstyles.org/styles/108208/jwz-eye-saver
 [JWZ_Eye_Saver_File]: JWZ.Improved.user.css
 [Lastfm_Show_Scrobble_Counts]: https://userstyles.org/styles/118344/last-fm-show-scrobble-counts-in-library
